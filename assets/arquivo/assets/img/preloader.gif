@@ -1,0 +1,830 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Júlia Pessin - Arquitetura e Interiores | Campinas e Valinhos</title>
+    <meta name="description" content="Arquitetura, Aprovações, Maquetes 3D e Design de Interiores">
+    <meta name="keywords" content="arquitetura, campinas, valinhos, decoração, projetos, design, interiores">
+    <meta name="robots" content="index,follow" />
+
+    <link rel="icon" href="/assets/favicon.png" />
+
+    <!-- Bootstrap -->
+    <link href="/assets/css/index.css" rel="stylesheet">
+
+    <!-- <link href='http://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'> -->
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <!-- <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'> -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'> -->
+    <!-- <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'> -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+    <script>
+        function gen_mail_to_link(lhs, rhs, subject) {
+            document.write("<A HREF=\"mailto");
+            document.write(":" + lhs + "@");
+            document.write(rhs + "?subject=" + subject + "\">" + lhs + "@" + rhs + "<\/A>");
+        }
+    </script>
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- <div class="se-pre-con"></div> -->
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">júlia pessin</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Serviços</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">Sobre</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contato</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading"><img src="/assets/img/logo.png" alt='Júlia Pessin' class='img-responsive img-central'></div>
+                <a href="#services" class="page-scroll btn btn-xl">Conheça mais</a>
+            </div>
+        </div>
+    </header>
+    <h1 class="hidden">Júlia Pessin - Arquitetura e Interiores | Campinas e Valinhos</h1>
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-3 col-md-8 col-md-offset-2 text-center">
+                    <h2 class="section-heading">Serviços</h2>
+                    <h3 class="section-subheading text-muted"><p><strong>Atuação na Região Metropolitana de Campinas, com trabalhos no segmento da Construção Civil e dedicação à área de desenvolvimento, aprovação e execução de projetos.</strong></p></h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="icon-office"></span>
+                    <h4 class="service-heading">ARQUITETURA E CONSTRUÇÃO</h4>
+                    <p class="text-muted"><p>Projeto arquitetônico, estrutural, elétrico e hidráulico. Desenvolvimento e aprovação de projetos &nbsp;de obra nova, reforma, ampliação e regularização de residências, comércio e serviços, instituições.&nbsp;</p></p>
+                </div>
+                <div class="col-md-4">
+                    <span class="icon-copy"></span>
+                    <h4 class="service-heading">GERENCIAMENTO E EXECUÇÃO DE OBRAS</h4>
+                    <p class="text-muted"><p>Acompanhamento, administração e gerenciamento de obras. Interface com engenheiros e equipe de obra.</p></p>
+                </div>
+                <div class="col-md-4">
+                    <span class="icon-home"></span>
+                    <h4 class="service-heading">DESIGN DE INTERIORES E PAISAGISMO</h4>
+                    <p class="text-muted"><p><span>Criação e desenvolvimento de projetos completos, com a definição de acabamentos, móveis e decoração e também serviço de desenvolvimento de layout básico.&nbsp;<br></span></p></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Portfolio</h2>
+                    <h3 class="section-subheading text-muted">Trabalhos de Arquitetura e Design de Interiores</h3>
+                </div>
+            </div>
+            <div class="row">
+                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=47" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/91fb303faf4357dd618f8ac977e5bff6.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=21" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/9b5fe0e9d8e5c358702927b8df6a283e.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=48" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/fa9cd20acaf3816b0e409b54a2ce20c1.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura de Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=40" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/a068748685a4bdef38eec2eb53c866f5.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura e paisagismo</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=49" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/6a509074c53abb713cc014c17ba2237f.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=19" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/6c186e23d9429d57588942f7b26b68bb.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Arquitetura e Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=23" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/c58a89d48fedadbb60020184c9ba09ad.JPG" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Arquitetura e Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=24" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/c2b0164a43359b5046b3dd5c29e2780b.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura e Engenharia</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=17" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/aa2bb7a2be97aea541f929d97073d16c.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura e Paisagismo</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=46" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/771e8b02b183f1a0063c0556b1b1a957.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=25" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/b2f03c5a3f60062e439993f4d139a03e.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura e Engenharia</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=43" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/951c04d70fdaf794c669424d1854be38.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Design de interiores </p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=42" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/046f76087642d96314717f5895d56f9d.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=39" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/5fc8cb440eec48c1eae015e6e1677cf2.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura e Design </p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=27" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/04a519d81a27d6235b659a1df5caee5e.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura e Engenharia</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=28" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/5cf296ca177d0f05d29eb7ee8e809778.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de fachada e Paisagismo</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=35" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/72173eacc2b72424510db688c938831b.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=26" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/d8867945f544a9501fddbb4f5f77f87c.png" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=29" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/8a68c3bc8a0c3c8326b1cc75c14e38ca.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=22" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/8b51eda251cfe9f75c35d22b024d25c9.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Arquitetura e Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=34" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/13c8f4060713537cb7665b01bcf8a6ac.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=32" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/131f6cfa2bfd7f4da48b1638442e728a.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=45" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/bed84c1d1e3ac4b4134f201590602bc4.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Comercial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=37" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/a97c565ce2d7267bb10ab3d2f16ce527.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=41" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/d32591e7fe0e9348c8f9ed852d501c34.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=31" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/74cefc710642f5bb77373dc7df9abeb9.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=3" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/385e705fd06ac4cb8bdd9ba5ff0c43bd.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=2" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/ce71d892d9ee2b8f17f38a4ee7fa6290.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=30" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/0b254391221ea0fee473a994162dd112.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=9" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/f7969207ba5e045e2068d3b4b6380bf4.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=36" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/4b2b11f68094f0ca0e89d92c5042af50.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=44" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/31805ae421444441fa8d62b411058af2.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura e Design </p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=14" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/a7c2d2dbb8c9916374a4c69e727092ac.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de Interiores</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=38" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/270130c1c8f565cf58ba4fc869bc4a73.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial </h4>
+                            <p class="text-muted">Arquitetura e Design </p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=12" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/2e49288fa8c085266bef6d9deeb9517c.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Paisagismo</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=18" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/60a7dea9a2e245c85a6e914d7668ad1a.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de fachada e Paisagismo</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=1" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/d84d62c5be1a8e86cd493885428dc378.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=10" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/3df518e296d813ac20642ed039f15bfd.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Design de fachada</p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=4" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/19f8fae31bf2a11fd2ecead9a68c51d8.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                                    <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=5" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/05d2686bc747700a92a113f6f18af0fd.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Apartamentos</h4>
+                            <p class="text-muted">Arquitetura </p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=33" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/e572cd40ed9134ef877669f7c144a449.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Projeto Residencial</h4>
+                            <p class="text-muted">Arquitetura </p>
+                        </div>
+                    </div>
+                                                        <div class="col-sm-4 portfolio-item">
+                        <a href="/projeto.php?project_id=11" class="portfolio-link">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content">
+                                    <i class="fa fa-plus fa-3x"></i>
+                                </div>
+                            </div>
+
+                            <img src="https://www.juliapessin.com.br/files/dec562334b05c21cab4e0e9d582e2d6d.jpg" class="img-responsive" alt="Projeto Júlia Pessin">
+                        </a>
+                        <div class="portfolio-caption">
+                            <h4>Habitação de Interesse Social</h4>
+                            <p class="text-muted">Arquitetura e Urbanismo</p>
+                        </div>
+                    </div>
+                    </div><div class="row">                            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2 class="section-heading">Sobre</h2>
+                    <h3 class="section-subheading text-muted">Arquiteta Júlia Pessin</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <p style="text-align: justify;">A arquiteta Júlia Pessin, formada em Arquitetura e Urbanismo pela FAU - PUC Campinas, iniciou sua atividade profissional em 2011.</p><p dir="ltr" style="text-align: justify;"><strong><span>Atualmente, trabalha com Arquitetura, Construção e Design de Interiores, em parceria com profissionais da área, visando projetos completos.</span></strong></p><p dir="ltr" style="text-align: justify;"><span>Para a arquiteta, melhor solução técnica, funcionalidade, conforto e estética são indispensáveis para um projeto de qualidade e satisfação do cliente. Os projetos são pensados para atender às necessidades de cada cliente, respeitando suas possibilidades e desejos, com uso dos recursos disponíveis.</span></p><p dir="ltr" style="text-align: justify;"><strong><span>Entre em contato, conheça o trabalho e o processo de desenvolvimento do projeto.</span></strong></p><p dir="ltr" style="text-align: justify;"><em><span>“A vida é um sopro”<br></span></em><em style="line-height: 18.2px;          letter-spacing: 0.1px;">Oscar Niemeyer</em></p><p style="text-align: justify;"><br></p>                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright text-muted">Copyright &copy; Júlia Pessin 2014</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        <li><a target='_blank' href="https://www.facebook.com/arquitetajuliapessin"><i class="icon-facebook"></i></a>
+                        </li>
+                        <li><a target='_blank' href="https://br.linkedin.com/in/juliapessin"><i class="icon-linkedin"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4 text-right">
+                    <span class='rodape'>Júlia Pessin - Arquiteta e Urbanista</span><br>
+                    <span class='rodape'>
+                        <script>
+                            gen_mail_to_link('pessin.julia', 'gmail.com', 'Contato via site...');
+                        </script>
+                    </span><noscript><span class='rodape'>Ative seu javascript para ver o e-mail.</span></noscript><br>
+                    <span class='rodape'> 19 9.9192.2877</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-48137413-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <!-- jQuery Version 1.11.0 -->
+    <script src="/assets/js/index.min.js" async="async"></script>
+
+</body>
+
+</html>
